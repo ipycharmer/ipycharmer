@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ameer Hamza 👋</h1>
 
-<!--
-**ipycharmer/ipycharmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Data Analytics &amp; Machine Learning Engineer</strong><br/>
+  CS Student @ Government College University, Faisalabad &nbsp;|&nbsp; Pakistan 🇵🇰
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:hamza6700@gmail.com">📧 hamza6700@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a junior data professional passionate about turning raw, messy data into clear, actionable insights. I work across the full analytics pipeline — from data cleaning and EDA to building predictive models and deploying dashboards.
+
+Currently deepening my expertise in **Deep Learning with PyTorch** and actively building real-world projects to sharpen my analytics and ML skills.
+
+---
+
+## 🛠️ Skills
+
+### Data Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### Tools & Deployment
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Student Performance Analytics Dashboard
+> Processed and cleaned records from 2,000+ students to build a data pipeline that optimizes learning schedules.
+- **Tools:** Python, Pandas, Scikit-learn, Streamlit
+- **Highlights:** Data cleaning & validation, EDA, predictive modelling, dashboard deployment
+- 🔗 *[Repository link coming soon]*
+
+### 🏥 Healthcare Dataset EDA
+> Exploratory analysis on a health-related dataset — identifying outliers, missing data patterns, and variable correlations.
+- **Tools:** Python, Pandas, Seaborn, Matplotlib
+- **Highlights:** Data quality assessment, visual reporting, structured findings
+- 🔗 *[Repository link coming soon]*
+
+### 🧠 Deep Learning Experiments (PyTorch)
+> Ongoing experiments with neural network architectures as I advance my deep learning skills.
+- **Tools:** PyTorch, NumPy, Jupyter Notebooks
+- **Highlights:** Classification tasks, architecture experimentation, training loop design
+- 🔗 *[Repository link coming soon]*
+
+---
+
+## 📈 What I'm Currently Working On
+
+- 🔭 Building end-to-end analytics projects with clean documentation
+- 🌱 Learning advanced deep learning techniques with PyTorch
+- 📊 Practicing SQL for data analysis and reporting workflows
+- 💡 Exploring data visualization best practices for non-technical audiences
+
+---
+
+## 📫 Get In Touch
+
+I'm open to freelance data analytics projects, internship opportunities, and collaborations.
+
+📧 **hamza6700@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Data is the new soil." — David McCandless</em>
+</p>
