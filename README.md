@@ -27,12 +27,10 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 
 ### Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Tools & Deployment
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -48,11 +46,11 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 > Processed and cleaned records from 2,000+ students to build a data pipeline that optimizes learning schedules.
 - **Tools:** Python, Pandas, Scikit-learn, Streamlit
 - **Highlights:** Data cleaning & validation, EDA, predictive modelling, dashboard deployment
-- 🔗 *[Repository link coming soon]*
+- 🔗 [Student Performance Predictor](https://github.com/ipycharmer/student-performance-predictor/)
 
 ### 🏥 Healthcare Dataset EDA
 > Exploratory analysis on a health-related dataset — identifying outliers, missing data patterns, and variable correlations.
-- **Tools:** Python, Pandas, Seaborn, Matplotlib
+- **Tools:** Python, Pandas, Matplotlib
 - **Highlights:** Data quality assessment, visual reporting, structured findings
 - 🔗 *[Repository link coming soon]*
 
