@@ -49,6 +49,7 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 - Used this local api as a provider instead of using anthropic's provider
 - **Tools:** Python (for benchmark), Docker, Shell scripts, JavaScript
 - **Highlights:** Free claude code 24/7, 1Million tokens of context of Owl Alpha model. (Do not use on senstive data.)
+- 🔗 [Free Claudecode](https://github.com/ipycharmer/claudecode-free/)
 
 ### 📊 Student Performance Analytics Dashboard
 > Processed and cleaned records from 6,000+ students to build a data pipeline that optimizes learning schedules.
