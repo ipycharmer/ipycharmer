@@ -57,17 +57,17 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 - **Highlights:** Data cleaning & validation, EDA, predictive modelling, dashboard deployment
 - 🔗 [Student Performance Predictor](https://github.com/ipycharmer/student-performance-predictor/)
 
-### 🏥 Healthcare Dataset EDA & Heart disease prediction
+### 🏥 Healthcare Dataset EDA & Heart Disease Prediction
 > Exploratory analysis on a health-related dataset — identifying outliers, missing data patterns, and variable correlations.
 - **Tools:** Python, Pandas, Matplotlib, Scitkit-learn
 - **Highlights:** Data quality assessment, visual reporting, structured findings
-- 🔗 *[Repository link coming soon]*
+- 🔗 [Heart Disease Predictor](https://github.com/ipycharmer/heart-disease-prediction)
 
 ### 🧠 Deep Learning Experiments (PyTorch)
 > Ongoing experiments with neural network architectures as I advance my deep learning skills.
 - **Tools:** PyTorch, NumPy, Jupyter Notebooks
 - **Highlights:** Classification tasks, architecture experimentation, training loop design
-- 🔗 *[Repository link coming soon]*
+- 🔗 [Pytorch Num Predictor](https://github.com/ipycharmer/heart-disease-prediction/)
 
 ---
 
