@@ -67,7 +67,7 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 > Ongoing experiments with neural network architectures as I advance my deep learning skills.
 - **Tools:** PyTorch, NumPy, Jupyter Notebooks
 - **Highlights:** Classification tasks, architecture experimentation, training loop design
-- 🔗 [Pytorch Num Predictor](https://github.com/ipycharmer/heart-disease-prediction/)
+- 🔗 [Pytorch Num Predictor](https://github.com/ipycharmer/hand-written-num-recognition/)
 
 ---
 
