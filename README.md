@@ -42,15 +42,23 @@ Currently deepening my expertise in **Deep Learning with PyTorch** and actively 
 
 ## 📌 Featured Projects
 
+### 🐙 Free Claude Code (CLI)
+> A wrapper that uses claude code as agent while getting tokens from [Open Router](https://openrouter.com/)
+- Used docker to seperate claude code
+- Then configured local api which sends requests to open router
+- Used this local api as a provider instead of using anthropic's provider
+- **Tools:** Python (for benchmark), Docker, Shell scripts, JavaScript
+- **Highlights:** Free claude code 24/7, 1Million tokens of context of Owl Alpha model. (Do not use on senstive data.)
+
 ### 📊 Student Performance Analytics Dashboard
-> Processed and cleaned records from 2,000+ students to build a data pipeline that optimizes learning schedules.
+> Processed and cleaned records from 6,000+ students to build a data pipeline that optimizes learning schedules.
 - **Tools:** Python, Pandas, Scikit-learn, Streamlit
 - **Highlights:** Data cleaning & validation, EDA, predictive modelling, dashboard deployment
 - 🔗 [Student Performance Predictor](https://github.com/ipycharmer/student-performance-predictor/)
 
-### 🏥 Healthcare Dataset EDA
+### 🏥 Healthcare Dataset EDA & Heart disease prediction
 > Exploratory analysis on a health-related dataset — identifying outliers, missing data patterns, and variable correlations.
-- **Tools:** Python, Pandas, Matplotlib
+- **Tools:** Python, Pandas, Matplotlib, Scitkit-learn
 - **Highlights:** Data quality assessment, visual reporting, structured findings
 - 🔗 *[Repository link coming soon]*
 
