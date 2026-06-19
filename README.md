@@ -89,11 +89,11 @@ I'm open to freelance data analytics projects, internship opportunities, and col
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipycharmer&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipycharmer&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 ---
